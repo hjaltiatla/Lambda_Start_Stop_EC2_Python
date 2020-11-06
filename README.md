@@ -11,5 +11,5 @@
 #### After Creating the Lambda Functions you need to add an Environment variable for the functions with the Ec2 instance ID
 Key= "EC2_INSTANCES"
 Value= "instance ID"
-[Instance ID Example](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/images/clearbox-view-ec2-instances-3.png)
+([Instance ID Example](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/images/clearbox-view-ec2-instances-3.png))
 
